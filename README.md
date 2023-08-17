@@ -1,4 +1,4 @@
-# Clone of @kalwar [null_or_empty](https://github.com/kalwar/null_or_empty)
+# null_or_empty
 
 [![Node CI](https://github.com/julilan/nodejs_workflow/actions/workflows/whatever.yml/badge.svg)](https://github.com/julilan/nodejs_workflow/actions/workflows/whatever.yml)
 
@@ -23,3 +23,7 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+## Source
+
+@kalwar [null_or_empty](https://github.com/kalwar/null_or_empty)
